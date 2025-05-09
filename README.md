@@ -1,2 +1,4 @@
 # CRISPR_LOH
-code for Després, Gervais et al 2025
+Code and intermediate analysis files for Després, Gervais et al 2025
+
+
